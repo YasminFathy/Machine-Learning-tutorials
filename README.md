@@ -8,7 +8,7 @@ Machine Learning is a type of Artificial Intelligence (AI) which applies algorit
 - Ranking (e.g. Google page rank, Facebook Ads ranking, ranking Quora home page feed, ranking Quora related questions, ranking AirBnB search results)
 - Recommendation (e.g. recommended books on amazon or movies based on personalisation)
 - Summarisation (e.g. sentimental analysis of tweets)
-- Detecting anomalies/outliers which is detecting events or observations that are not expected and considerably different from the rest of the data (e.g. detecting anomalies in time-series data, detecting fraud or network intrusion)
+- Detecting anomalies/outliers which is detecting events or observations that are not expected to exist and are considerably different from the rest of the data (e.g. detecting anomalies in time-series data, detecting fraud or network intrusion)
 
 
 # What is the difference between Machine Learning and Artificial Intelligence ?
