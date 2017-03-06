@@ -6,7 +6,9 @@ Machine Learning is a type of Artificial Intelligence (AI) which applies algorit
 - Forcasting/Prediction (e.g. weather forcasting, Prediction of energy consumption)
 - Decision making (e.g. stock Exchange)
 - Ranking (e.g. Google page rank, Facebook Ads ranking, ranking query results)
-- Recommendation (e.g. Amazon books, recommended movies based on personalisation)
+- Recommendation (e.g. recommended books on amazon or movies based on personalisation)
+- Summarisation (e.g. sentimental analysis for twitters)
+- Detecting anomalies/outliers which is detecting events or observations that are not expected and considerably different from the rest of the data (e.g. detecting anomalies in time-series data, detecting fraud or network intrusion)
 
 
 # What is the difference between Machine Learning and Artificial Intelligence ?
