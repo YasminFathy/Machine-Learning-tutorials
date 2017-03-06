@@ -3,6 +3,11 @@ Basic Machine Leanring (ML) tutorials
 
 # MachineLearning
 Machine Learning is a type of Artificial Intelligence (AI) which applies algorithms and data mining methods and approaches on a given dataset (e.g. weather data) to extract and infer infromation and actionable knowledge (e.g. what is the probability that the weather is going to rain in London tomorrow?). Machine learning algorithms also enable discovery and searching for patterns (e.g. locations with high humidity and low visibility). Machine learning applications include, but not limited to:
+- Forcasting/Prediction (e.g. weather forcasting, Prediction of energy consumption)
+- Decision making (e.g. stock Exchange)
+- Ranking (e.g. Google page rank, Facebook Ads ranking, ranking query results)
+- Recommendation (e.g. Amazon books, recommended movies based on personalisation)
+-
 
 
 # What is the difference between Machine Learning and Artificial Intelligence ?
