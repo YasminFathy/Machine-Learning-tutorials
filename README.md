@@ -1,4 +1,4 @@
-# Machine-Learning-tutorials
+# Machine Learning Tutorials
 
 # What is the difference between Machine Learning and Artificial Intelligence ?
 Artificial Intelligence is a concept in which machines are able to learn, carry out tasks and recommend actions that we consider "smart". On the other hand, machine learning is AI-based applications that enable machines accessing a given data and  learn from the data to extract/infer knowledge/information. 
